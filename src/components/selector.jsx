@@ -16,9 +16,9 @@ export default function Selector(props) {
       </select>
       <button className='btn btn-clear' onClick={props.handleClear}>
         <ClearIcon />
-        <span id="clear-tooltip">Clear Texts</span>
+        <span id="clear-tooltip">Clear Text</span>
       </button>
-
     </div>
   )
 }
+

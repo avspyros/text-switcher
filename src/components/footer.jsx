@@ -6,7 +6,7 @@ export default function Footer() {
 
   return (
     <div className='footer'>
-      <p>NetMorph - {getCurrentYear()}</p>
+      <p>Text Switcher V.1 by Avspyros - {getCurrentYear()}</p>
     </div>
   )
 }
