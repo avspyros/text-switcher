@@ -1,6 +1,6 @@
 # text-switcher
 
-A simple tool for converting text.
+A simple tool for converting text, made with React.
 
 ## Available Functionality:  
 
